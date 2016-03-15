@@ -1,3 +1,4 @@
+/* some comments  test*/
 package app.com.helloworld.piotr.helloworld;
 
 import android.os.Bundle;
